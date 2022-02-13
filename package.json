@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-operators",
+  "version": "1.0.0",
+  "description": "operators for rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node node_modules/.bin/jasmine JASMINE_CONFIG_PATH=jasmine.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.10.3",
+    "jasmine": "^4.0.2",
+    "rxjs": "^7.5.4",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {}
+}
